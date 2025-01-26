@@ -10,7 +10,7 @@
 
 ## 🌐 Socials
 📧 [ns172128561@gmail.com](mailto:ns172128561@gmail.com)
-📞 [7389058485](tel:7389058485)
+📞 [![phone](https://img.shields.io/badge/phone-%230077B5.svg?logo=linkedin&logoColor=white))][+917389058485](tel:7389058485)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra1721/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%2300A8FF.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Narendrasinghdangi/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?ogo=youtube&logoColor=white)](https://www.youtube.com/@Deeplearningbynarendra/videos)
@@ -43,7 +43,7 @@ Addressed system errors by implementing fallback mechanisms to ensure continuous
 
 ## Education
 
-**Bachelor of Technology in Data Science and Artificial Intelligence**
+**Bachelor of Technology in Data Science and Artificial Intelligence**<br>
 Indian Institute of Information Technology, Dharwad (2020 – 2024)
 
 # Skills 💻 Tech Stack:
