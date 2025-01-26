@@ -111,18 +111,17 @@ Addressed system errors by implementing fallback mechanisms to ensure continuous
 - [LiveKit](https://github.com/livekit/agents/pull/1156): Added error handling for chunk loop errors by introducing an `error_message_collected` callback.
 ---
 
-## Personal Projects
-
-### [Image Caption Generator](https://github.com/narendrasinghdangi/image-caption-generator)
+# Personal Projects
+## [Image Caption Generator](https://github.com/narendrasinghdangi/image-caption-generator)
 **AIM**: To generate a textual description of the content of an image.<br>
 **Role** & Responsibility: Image caption generator is to make it easier for users to understand the Content of an image by providing a descriptive text that accurately reflects the image's content.<br>
 **Tech Stack**: CNN, TensorFlow, OpenCV, LSTM, Embedding, FastAPI, AWS, Docker
 
-### [Nutritional Value and Recipe Prediction](https://github.com/narendrasinghdangi/Recipe-of-foods-from-Images-Using-CNN)
+## [Nutritional Value and Recipe Prediction](https://github.com/narendrasinghdangi/Recipe-of-foods-from-Images-Using-CNN)
 **AIM**: The aim of this project is to develop a system that can automatically analyze images of various foods using (CNNs) to determine their nutritional value and provide relevant recipes based on the detected ingredients.<br>
 **Tech Stack**: CNNs, Tensorflow, Flask, Docker, AWS, flutter.
 
-### [Microscopic Image Analysis with GANs](https://github.com/narendrasinghdangi/Microscopic-Image-Analysis-with-GANs-for-Cellular-Region-Identification)
+## [Microscopic Image Analysis with GANs](https://github.com/narendrasinghdangi/Microscopic-Image-Analysis-with-GANs-for-Cellular-Region-Identification)
 **AIM**: Utilizing Generative Adversarial Networks (GANs) to transform microscopic images into segmented cell regions, facilitating improved comprehension and analysis of cellular structures.<br>
 **Role & Responsibility**: Using GANs to convert microscopic images into cell regions to enhance comprehension and analysis of cellular structures, thereby improving biological research outcomes.<br>
 **Tech Stack**: GANs, TensorFlow, OpenCV.
