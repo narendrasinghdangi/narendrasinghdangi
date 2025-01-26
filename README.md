@@ -2,9 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendrasinghdangi&label=Profile%20views&color=0e75b6&style=flat" alt="narendrasinghdangi" /> </p>
 
 - 👀 I have 2+ years of experience in Machine Learning with a proven ability and history of developing full-stack machine learning projects. I'm curious about data, training Machine Learning/Deep Learning models, and providing beautiful insights that are easily understandable. Hands-on experience in leveraging machine learning, deep learning, and transfer learning models to solve challenging business problems.
-- 🌱 I’m currently learning about building chatbot agents that analyze user inputs and generate intelligent responses to improve interactions.
-- 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me **ns172128561@gmail.com**
 - ⚡ Fun fact:  Python was named after the British comedy series "Monty Python's Flying Circus," not after the snake. Guido van Rossum, the creator of Python, chose this name because he wanted the programming language to be fun and not take itself too seriously!
 
 # 🌐 Socials
