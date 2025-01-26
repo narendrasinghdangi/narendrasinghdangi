@@ -46,9 +46,7 @@ Addressed system errors by implementing fallback mechanisms to ensure continuous
 ---
 
 ## Education
-
-**Bachelor of Technology in Data Science and Artificial Intelligence**<br>
-Indian Institute of Information Technology, Dharwad (2020 – 2024)
+### Bachelor of Technology in Data Science and Artificial Intelligence from Indian Institute of Information Technology, Dharwad (2020 – 2024)
 
 # Skills 💻 Tech Stack:
 
@@ -120,7 +118,7 @@ Indian Institute of Information Technology, Dharwad (2020 – 2024)
 
 ---
 
-## Projects
+## Personal Projects
 
 ### [Image Caption Generator](https://github.com/narendrasinghdangi/image-caption-generator)
 **AIM**: To generate a textual description of the content of an image.<br>
