@@ -10,6 +10,8 @@
 
 ## 🌐 Socials
 📧 [ns172128561@gmail.com](mailto:ns172128561@gmail.com)
+![Phone](https://img.shields.io/badge/Phone-%2B91%207389058485-blue)
+
 [![Phone](https://img.shields.io/badge/Phone-%2300A8FF.svg?logo=phone&logoColor=white)](tel:+917389058485)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra1721/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%2300A8FF.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Narendrasinghdangi/)
