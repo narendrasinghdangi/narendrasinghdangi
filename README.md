@@ -12,8 +12,10 @@
 ![Email](https://img.shields.io/badge/Email-ns172128561@gmail.com-black?style=for-the-badge)
 ![Phone](https://img.shields.io/badge/Phone-%2B91%207389058485-black?style=for-the-badge)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra1721/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds 10 spaces -->
 [![LeetCode](https://img.shields.io/badge/LeetCode-%2300A8FF.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Narendrasinghdangi/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?ogo=youtube&logoColor=white)](https://www.youtube.com/@Deeplearningbynarendra/videos)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds 10 spaces -->
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Deeplearningbynarendra/videos)
 
 ## Professional Experience
 
