@@ -18,27 +18,26 @@
 ## Professional Experience
 
 ### Associate Data Scientist
-**Bluebash Consulting Pvt. Ltd, Chandigarh Punjab** (05/2024 - Present)
-**Technologies:** OpenAI, RAGflow, Docker, FastAPI, Twilio, LiveKit, Python
-
-- Designed a RAG system for efficient query handling.
-- Developed an AI-driven voice assistant using Twilio and LiveKit for real-time communication.
-- Improved automation and productivity by integrating custom tools.
+**Bluebash Consulting Pvt. Ltd, Chandigarh Punjab** (05/2024 - Present)<br>
+**Technologies**: OpenAI, RAGflow, Docker, FastAPI, Twilio, LiveKit, Python.<br>
+**Description**: KickCall.AI, leveraging RAGflow's Retrieval-Augmented Generation (RAG) architecture, enhances real-time interaction capabilities. The system integrates natural language understanding and voice assistance, offering seamless custom tool integrations for advanced AI-driven workflows.
+Role: Develop and optimize AI-driven voice agents and RAG-based systems for improved customer experience.<br>
+**Responsibilities**: Designed and implemented a RAG system that efficiently retrieves knowledge for handling queries. Developed an AI-driven voice assistant using Twilio and LiveKit for real-time communication. Integrated custom tools to handle specialized tasks, enhancing automation and productivity in workflows.
+Addressed system errors by implementing fallback mechanisms to ensure continuous voice-agent performance. Collaborated on integrating APIs for seamless interaction between backend systems and voice agents. Improved response generation by dynamically rephrasing predictions for conversational accuracy and engagement
 
 ### Associate Software Engineer
-**Autoverse Mobility Pvt. Ltd, Bangalore** (12/2023 - 05/2024)
-**Technologies:** OpenAI, Fine-tuning, FastAPI, Docker, Hugging Face, AWS
+**Autoverse Mobility Pvt. Ltd, Bangalore** (12/2023 - 05/2024)<br>
+**Technologies:** OpenAI, Fine-tuning, FastAPI, Docker, Hugging Face, AWS<br>
+**Description**: AutoverseAI Chatbot utilizing OpenAI's embedding models, seamlessly corrects names for improved user interactions. Additionally, computer vision integration enables automated vehicle detail identification from car images, streamlining the process for users. Role: Develop machine learning models and APIs for part name identification and deployment.<br>
+**Responsibilities**: Developed a WhatsApp bot for AutoverseAi utilizing RAGs architecture, integrated with Pinecone database for seamless interaction and data retrieval. Implemented computer vision for automated identification of vehicle Details by car image. Increased sales by 50% through accurate parts suggestion, enhancing automotive part identification and retrieval efficiency.
 
-- Developed a WhatsApp bot utilizing RAG architecture, integrated with Pinecone for data retrieval.
-- Implemented computer vision for automated vehicle detail identification from car images.
-- Increased sales by 50% through accurate parts suggestion.
 
 ### Data Analyst Intern
-**Autoverse Mobility Pvt. Ltd, Bangalore** (06/2023 - 11/2023)
-**Technologies:** Scikit-learn, TensorFlow, NLTK, Docker, AWS, BeautifulSoup, Selenium
-
-- Developed a web scraping tool, enhancing the automobile database by 80%.
-- Built a recommendation model to suggest products based on past purchase behavior.
+**Autoverse Mobility Pvt. Ltd, Bangalore** (06/2023 - 11/2023)<br>
+**Technologies:** Scikit-learn, TensorFlow, NLTK, Docker, AWS, BeautifulSoup, Selenium.<br>
+**Description**: Implementing a classification system that automatically categorizes incoming messages as either spam or ham, optimizing user communication experiences.
+**Role**: Cleaning data and developing a Deep Learning model to implement a classification system.
+**Responsibilities**: Developed a web scraping tool, leading to an 80% enhancement in the data richness of our automobile database. Built a recommendation model utilizing past purchase behavior to suggest products to the end-users.
 
 ---
 
@@ -120,16 +119,18 @@ Indian Institute of Information Technology, Dharwad (2020 – 2024)
 ## Projects
 
 ### [Image Caption Generator](https://github.com/narendrasinghdangi/image-caption-generator)
-**Tech Stack:** CNN, TensorFlow, OpenCV, LSTM, FastAPI, AWS, Docker
-Generated textual descriptions of the content of an image, improving accessibility and providing descriptive insights for users.
+**AIM**: To generate a textual description of the content of an image.<br>
+**Role** & Responsibility: Image caption generator is to make it easier for users to understand the Content of an image by providing a descriptive text that accurately reflects the image's content.<br>
+**Tech Stack**: CNN, TensorFlow, OpenCV, LSTM, Embedding, FastAPI, AWS, Docker
 
 ### [Nutritional Value and Recipe Prediction](https://github.com/narendrasinghdangi/Recipe-of-foods-from-Images-Using-CNN)
-**Tech Stack:** CNN, TensorFlow, Flask, Docker, AWS
-Developed a system to analyze food images, determine their nutritional value, and suggest relevant recipes based on detected ingredients.
+**AIM**: The aim of this project is to develop a system that can automatically analyze images of various foods using (CNNs) to determine their nutritional value and provide relevant recipes based on the detected ingredients.<br>
+**Tech Stack**: CNNs, Tensorflow, Flask, Docker, AWS, flutter.
 
 ### [Microscopic Image Analysis with GANs](https://github.com/narendrasinghdangi/Microscopic-Image-Analysis-with-GANs-for-Cellular-Region-Identification)
-**Tech Stack:** GANs, TensorFlow, OpenCV
-Used Generative Adversarial Networks (GANs) to transform microscopic images into segmented cell regions, improving biological research outcomes by facilitating analysis of cellular structures.
+**AIM**: Utilizing Generative Adversarial Networks (GANs) to transform microscopic images into segmented cell regions, facilitating improved comprehension and analysis of cellular structures.<br>
+**Role & Responsibility**: Using GANs to convert microscopic images into cell regions to enhance comprehension and analysis of cellular structures, thereby improving biological research outcomes.<br>
+**Tech Stack**: GANs, TensorFlow, OpenCV.
 
 ---
 
