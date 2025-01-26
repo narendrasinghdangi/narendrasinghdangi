@@ -2,18 +2,52 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendrasinghdangi&label=Profile%20views&color=0e75b6&style=flat" alt="narendrasinghdangi" /> </p>
 
 
-- 👀 I’m interested in AI
+- 👀 I have 2+ years of experience in Machine Learning with a proven ability and history of developing full-stack machine learning projects. I'm curious about data, training Machine Learning/Deep Learning models, and providing beautiful insights that are easily understandable. Hands-on experience in leveraging machine learning, deep learning, and transfer learning models to solve challenging business problems.
 - 🌱 I’m currently learning about building chatbot agents that analyze user inputs and generate intelligent responses to improve interactions.
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me **ns172128561@gmail.com**
 - ⚡ Fun fact:  Python was named after the British comedy series "Monty Python's Flying Circus," not after the snake. Guido van Rossum, the creator of Python, chose this name because he wanted the programming language to be fun and not take itself too seriously!
 
-## 🌐 Socials:
+## 🌐 Socials
+📧 [ns172128561@gmail.com](mailto:ns172128561@gmail.com)
+📞 [7389058485](tel:7389058485)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra1721/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%2300A8FF.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Narendrasinghdangi/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?ogo=youtube&logoColor=white)](https://www.youtube.com/@Deeplearningbynarendra/videos)
 
-# 💻 Tech Stack:
+## Professional Experience
+
+### Associate Data Scientist
+**Bluebash Consulting Pvt. Ltd, Chandigarh Punjab** (05/2024 - Present)
+**Technologies:** OpenAI, RAGflow, Docker, FastAPI, Twilio, LiveKit, Python
+
+- Designed a RAG system for efficient query handling.
+- Developed an AI-driven voice assistant using Twilio and LiveKit for real-time communication.
+- Improved automation and productivity by integrating custom tools.
+
+### Associate Software Engineer
+**Autoverse Mobility Pvt. Ltd, Bangalore** (12/2023 - 05/2024)
+**Technologies:** OpenAI, Fine-tuning, FastAPI, Docker, Hugging Face, AWS
+
+- Developed a WhatsApp bot utilizing RAG architecture, integrated with Pinecone for data retrieval.
+- Implemented computer vision for automated vehicle detail identification from car images.
+- Increased sales by 50% through accurate parts suggestion.
+
+### Data Analyst Intern
+**Autoverse Mobility Pvt. Ltd, Bangalore** (06/2023 - 11/2023)
+**Technologies:** Scikit-learn, TensorFlow, NLTK, Docker, AWS, BeautifulSoup, Selenium
+
+- Developed a web scraping tool, enhancing the automobile database by 80%.
+- Built a recommendation model to suggest products based on past purchase behavior.
+
+---
+
+## Education
+
+**Bachelor of Technology in Data Science and Artificial Intelligence**
+Indian Institute of Information Technology, Dharwad (2020 – 2024)
+
+# Skills 💻 Tech Stack:
 
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -67,6 +101,37 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+
+### Deep Learning Expertise
+
+- Designed and implemented neural network architectures in TensorFlow, including Feed Forward Neural Networks, backpropagation (scalar and vectorized), and optimization algorithms like Adagrad and RMSProp.
+- Trained Convolutional Neural Networks (CNNs), such as ResNet, from scratch using techniques like dropout, Batch Normalization, and Regularization.
+
+---
+
+## Open-Source Contributions
+
+- [Scikit-Learn](https://github.com/scikit-learn/scikit-learn/pull/27066): Fixed performance issues by removing a for loop, improving speed from O(N) to O(1).
+- [RAGflow](https://github.com/infiniflow/ragflow/issues/1689): Enhanced title extraction logic to handle `.txt` files and resolved an IndentationError.
+- [LiveKit](https://github.com/livekit/agents/pull/1156): Added error handling for chunk loop errors by introducing an `error_message_collected` callback.
+
+---
+
+## Projects
+
+### [Image Caption Generator](https://github.com/narendrasinghdangi/image-caption-generator)
+**Tech Stack:** CNN, TensorFlow, OpenCV, LSTM, FastAPI, AWS, Docker
+Generated textual descriptions of the content of an image, improving accessibility and providing descriptive insights for users.
+
+### [Nutritional Value and Recipe Prediction](https://github.com/narendrasinghdangi/Recipe-of-foods-from-Images-Using-CNN)
+**Tech Stack:** CNN, TensorFlow, Flask, Docker, AWS
+Developed a system to analyze food images, determine their nutritional value, and suggest relevant recipes based on detected ingredients.
+
+### [Microscopic Image Analysis with GANs](https://github.com/narendrasinghdangi/Microscopic-Image-Analysis-with-GANs-for-Cellular-Region-Identification)
+**Tech Stack:** GANs, TensorFlow, OpenCV
+Used Generative Adversarial Networks (GANs) to transform microscopic images into segmented cell regions, improving biological research outcomes by facilitating analysis of cellular structures.
+
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=narendrasinghdangi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
