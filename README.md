@@ -123,6 +123,7 @@ Addressed system errors by implementing fallback mechanisms to ensure continuous
 **AIM**: Utilizing Generative Adversarial Networks (GANs) to transform microscopic images into segmented cell regions, facilitating improved comprehension and analysis of cellular structures.<br>
 **Role & Responsibility**: Using GANs to convert microscopic images into cell regions to enhance comprehension and analysis of cellular structures, thereby improving biological research outcomes.<br>
 **Tech Stack**: GANs, TensorFlow, OpenCV.
+
 ---
 
 # 📊 GitHub Stats:
