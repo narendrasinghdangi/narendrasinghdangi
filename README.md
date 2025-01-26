@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Narendra Singh Dangi!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendrasinghdangi&label=Profile%20views&color=0e75b6&style=flat" alt="narendrasinghdangi" /> </p>
 
-
 - 👀 I have 2+ years of experience in Machine Learning with a proven ability and history of developing full-stack machine learning projects. I'm curious about data, training Machine Learning/Deep Learning models, and providing beautiful insights that are easily understandable. Hands-on experience in leveraging machine learning, deep learning, and transfer learning models to solve challenging business problems.
 - 🌱 I’m currently learning about building chatbot agents that analyze user inputs and generate intelligent responses to improve interactions.
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me **ns172128561@gmail.com**
 - ⚡ Fun fact:  Python was named after the British comedy series "Monty Python's Flying Circus," not after the snake. Guido van Rossum, the creator of Python, chose this name because he wanted the programming language to be fun and not take itself too seriously!
 
-## 🌐 Socials
+# 🌐 Socials
 ![Email](https://img.shields.io/badge/Email-ns172128561@gmail.com-black?style=for-the-badge)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Phone](https://img.shields.io/badge/Phone-%2B91%207389058485-black?style=for-the-badge)
@@ -19,9 +18,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Deeplearningbynarendra/videos)
 
-## Professional Experience
 
-### Associate Data Scientist
+# Professional Experience
+## Associate Data Scientist
 **Bluebash Consulting Pvt. Ltd, Chandigarh Punjab** (05/2024 - Present)<br>
 **Technologies**: OpenAI, RAGflow, Docker, FastAPI, Twilio, LiveKit, Python.<br>
 **Description**: KickCall.AI, leveraging RAGflow's Retrieval-Augmented Generation (RAG) architecture, enhances real-time interaction capabilities. The system integrates natural language understanding and voice assistance, offering seamless custom tool integrations for advanced AI-driven workflows.
@@ -29,20 +28,18 @@ Role: Develop and optimize AI-driven voice agents and RAG-based systems for impr
 **Responsibilities**: Designed and implemented a RAG system that efficiently retrieves knowledge for handling queries. Developed an AI-driven voice assistant using Twilio and LiveKit for real-time communication. Integrated custom tools to handle specialized tasks, enhancing automation and productivity in workflows.
 Addressed system errors by implementing fallback mechanisms to ensure continuous voice-agent performance. Collaborated on integrating APIs for seamless interaction between backend systems and voice agents. Improved response generation by dynamically rephrasing predictions for conversational accuracy and engagement
 
-### Associate Software Engineer
+## Associate Software Engineer
 **Autoverse Mobility Pvt. Ltd, Bangalore** (12/2023 - 05/2024)<br>
 **Technologies:** OpenAI, Fine-tuning, FastAPI, Docker, Hugging Face, AWS<br>
 **Description**: AutoverseAI Chatbot utilizing OpenAI's embedding models, seamlessly corrects names for improved user interactions. Additionally, computer vision integration enables automated vehicle detail identification from car images, streamlining the process for users. Role: Develop machine learning models and APIs for part name identification and deployment.<br>
 **Responsibilities**: Developed a WhatsApp bot for AutoverseAi utilizing RAGs architecture, integrated with Pinecone database for seamless interaction and data retrieval. Implemented computer vision for automated identification of vehicle Details by car image. Increased sales by 50% through accurate parts suggestion, enhancing automotive part identification and retrieval efficiency.
 
-
-### Data Analyst Intern
+## Data Analyst Intern
 **Autoverse Mobility Pvt. Ltd, Bangalore** (06/2023 - 11/2023)<br>
 **Technologies:** Scikit-learn, TensorFlow, NLTK, Docker, AWS, BeautifulSoup, Selenium.<br>
 **Description**: Implementing a classification system that automatically categorizes incoming messages as either spam or ham, optimizing user communication experiences.
 **Role**: Cleaning data and developing a Deep Learning model to implement a classification system.
 **Responsibilities**: Developed a web scraping tool, leading to an 80% enhancement in the data richness of our automobile database. Built a recommendation model utilizing past purchase behavior to suggest products to the end-users.
-
 ---
 
 ## Education
@@ -68,7 +65,6 @@ Addressed system errors by implementing fallback mechanisms to ensure continuous
 ![weaviate](https://img.shields.io/badge/weaviate-%2300A876.svg?style=for-the-badge&logo=weaviate&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-%231A1A1A.svg?style=for-the-badge&logo=faiss&logoColor=white)
 ![CHROMA](https://img.shields.io/badge/CHROMA-%23F7A800.svg?style=for-the-badge&logo=python&logoColor=white)
-
 
 ## Backend Frameworks
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -103,19 +99,16 @@ Addressed system errors by implementing fallback mechanisms to ensure continuous
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-### Deep Learning Expertise
-
+## Deep Learning Expertise
+### [Deep Learning From scratch](https://github.com/narendrasinghdangi/Deep-learning-master)
 - Designed and implemented neural network architectures in TensorFlow, including Feed Forward Neural Networks, backpropagation (scalar and vectorized), and optimization algorithms like Adagrad and RMSProp.
 - Trained Convolutional Neural Networks (CNNs), such as ResNet, from scratch using techniques like dropout, Batch Normalization, and Regularization.
-
 ---
 
 ## Open-Source Contributions
-
 - [Scikit-Learn](https://github.com/scikit-learn/scikit-learn/pull/27066): Fixed performance issues by removing a for loop, improving speed from O(N) to O(1).
 - [RAGflow](https://github.com/infiniflow/ragflow/issues/1689): Enhanced title extraction logic to handle `.txt` files and resolved an IndentationError.
 - [LiveKit](https://github.com/livekit/agents/pull/1156): Added error handling for chunk loop errors by introducing an `error_message_collected` callback.
-
 ---
 
 ## Personal Projects
@@ -133,7 +126,6 @@ Addressed system errors by implementing fallback mechanisms to ensure continuous
 **AIM**: Utilizing Generative Adversarial Networks (GANs) to transform microscopic images into segmented cell regions, facilitating improved comprehension and analysis of cellular structures.<br>
 **Role & Responsibility**: Using GANs to convert microscopic images into cell regions to enhance comprehension and analysis of cellular structures, thereby improving biological research outcomes.<br>
 **Tech Stack**: GANs, TensorFlow, OpenCV.
-
 ---
 
 # 📊 GitHub Stats:
