@@ -9,8 +9,8 @@
 - ⚡ Fun fact:  Python was named after the British comedy series "Monty Python's Flying Circus," not after the snake. Guido van Rossum, the creator of Python, chose this name because he wanted the programming language to be fun and not take itself too seriously!
 
 ## 🌐 Socials
-## ![Email](https://img.shields.io/badge/Email-ns172128561@gmail.com-black)
-## ![Phone](https://img.shields.io/badge/Phone-%2B91%207389058485-black)
+![Email](https://img.shields.io/badge/Email-ns172128561@gmail.com-black?style=for-the-badge)
+![Phone](https://img.shields.io/badge/Phone-%2B91%207389058485-black)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra1721/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%2300A8FF.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Narendrasinghdangi/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?ogo=youtube&logoColor=white)](https://www.youtube.com/@Deeplearningbynarendra/videos)
