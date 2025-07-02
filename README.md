@@ -58,8 +58,10 @@ Role: Develop and optimize AI-driven voice agents and RAG-based systems for impr
 **Technologies:** Scikit-learn, TensorFlow, NLTK, Docker, AWS, BeautifulSoup, Selenium.<br>
 **Description**: Implementing a classification system that automatically categorizes incoming messages as either spam or ham, optimizing user communication experiences.
 **Role**: Cleaning data and developing a Deep Learning model to implement a classification system.
-**Responsibilities**: Developed a web scraping tool, leading to an 80% enhancement in the data richness of our automobile database. Built a recommendation model utilizing past purchase behavior to suggest products to the end-users.
-
+**Responsibilities**: 
+- Developed a web scraping tool, resulting in an 80% increase in the data richness of the automobile database.
+- Built a product recommendation model based on users’ past purchase behavior.
+- Enhanced user experience by delivering personalized product suggestions.
 ---
 
 ## Education
