@@ -16,23 +16,45 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Deeplearningbynarendra/videos)
 
 
+
 # Professional Experience
-## Associate Data Scientist
-**Bluebash Consulting Pvt. Ltd, Chandigarh Punjab** (05/2024 - Present)<br>
+# Data Scientist (05/2025 - Present) <br>
+**Bluebash Consulting Pvt. Ltd, Chandigarh, Punjab** <br>
+**Technologies**: OpenAI, Langflow, RAGflow, Docker, FastAPI, Twilio, LiveKit, Elasticsearch, Python.<br>
+**Description**: Leading advancements in KickCall.AI, an AI-powered voice platform enabling real-time, intelligent conversations. The system builds upon RAGflow and Langflow to deliver context-aware, tool-integrated voice agents for streamlining business workflows.
+Role: Architect intelligent agent workflows and scalable voice AI systems, enabling domain-specific automations using Retrieval-Augmented Generation and real-time communication stacks.<br>
+**Responsibilities**:
+- Designed and productionized dynamic Langflow-based workflows enabling seamless backend-to-agent communication via customizable API interfaces.
+- Enhanced voice agents with intelligent fallback, context retention, and conversational repair mechanisms to boost user satisfaction and reliability.
+- Developed voice-friendly question-answering systems from structured and unstructured data, improving user engagement across domains like real estate and customer support.
+- Optimized the tool invocation pipeline and response generation, reducing hallucinations and improving interpretability of AI decisions in conversations.
+- Implemented scalable document ingestion pipelines with RAG-based chunking, embedding, and querying workflows, integrated with Elasticsearch for low-latency retrieval.
+- Led efforts to modularize and automate data processing and system-level logging, contributing to improved observability and debugging in AI workflows.
+- Collaborated with multi-functional teams to design APIs and event-driven systems for seamless integration with external tools and platforms.
+
+## Associate Data Scientist (05/2024 - 04/2025) (1 Year)
+**Bluebash Consulting Pvt. Ltd, Chandigarh Punjab** <br>
 **Technologies**: OpenAI, RAGflow, Docker, FastAPI, Twilio, LiveKit, Python.<br>
 **Description**: KickCall.AI, leveraging RAGflow's Retrieval-Augmented Generation (RAG) architecture, enhances real-time interaction capabilities. The system integrates natural language understanding and voice assistance, offering seamless custom tool integrations for advanced AI-driven workflows.
 Role: Develop and optimize AI-driven voice agents and RAG-based systems for improved customer experience.<br>
-**Responsibilities**: Designed and implemented a RAG system that efficiently retrieves knowledge for handling queries. Developed an AI-driven voice assistant using Twilio and LiveKit for real-time communication. Integrated custom tools to handle specialized tasks, enhancing automation and productivity in workflows.
-Addressed system errors by implementing fallback mechanisms to ensure continuous voice-agent performance. Collaborated on integrating APIs for seamless interaction between backend systems and voice agents. Improved response generation by dynamically rephrasing predictions for conversational accuracy and engagement
+**Responsibilities**:
+- Built and deployed a Retrieval-Augmented Generation (RAG) system to deliver fast and accurate responses by retrieving relevant knowledge for user queries. Engineered a real-time AI voice assistant using Twilio and LiveKit, enabling natural and interactive communication.
+- Integrated custom tools to manage domain-specific tasks, significantly boosting workflow automation and system efficiency. Implemented robust fallback strategies to maintain uninterrupted voice-agent functionality during errors or unexpected failures.
+- Worked on seamless API integrations to enable smooth communication between backend services and voice agents. Enhanced conversational quality by dynamically refining generated responses for improved accuracy, clarity, and engagement.
 
-## Associate Software Engineer
-**Autoverse Mobility Pvt. Ltd, Bangalore** (12/2023 - 05/2024)<br>
+## Associate Software Engineer (12/2023 - 05/2024) (6 Months)
+**Autoverse Mobility Pvt. Ltd, Bangalore** <br>
 **Technologies:** OpenAI, Fine-tuning, FastAPI, Docker, Hugging Face, AWS<br>
 **Description**: AutoverseAI Chatbot utilizing OpenAI's embedding models, seamlessly corrects names for improved user interactions. Additionally, computer vision integration enables automated vehicle detail identification from car images, streamlining the process for users. Role: Develop machine learning models and APIs for part name identification and deployment.<br>
-**Responsibilities**: Developed a WhatsApp bot for AutoverseAi utilizing RAGs architecture, integrated with Pinecone database for seamless interaction and data retrieval. Implemented computer vision for automated identification of vehicle Details by car image. Increased sales by 50% through accurate parts suggestion, enhancing automotive part identification and retrieval efficiency.
+**Responsibilities**: 
+- Developed a WhatsApp bot for AutoverseAI using RAG (Retrieval-Augmented Generation) architecture.
+- Integrated the system with Pinecone vector database for efficient interaction and data retrieval.
+- Implemented computer vision to automatically identify vehicle details from car images.
+- Improved automotive part identification and retrieval accuracy.
+- Boosted sales by 50% through precise part suggestions based on image analysis and query understanding.
 
-## Data Analyst Intern
-**Autoverse Mobility Pvt. Ltd, Bangalore** (06/2023 - 11/2023)<br>
+## Data Analyst Intern (06/2023 - 11/2023) (6 Months)
+**Autoverse Mobility Pvt. Ltd, Bangalore** <br>
 **Technologies:** Scikit-learn, TensorFlow, NLTK, Docker, AWS, BeautifulSoup, Selenium.<br>
 **Description**: Implementing a classification system that automatically categorizes incoming messages as either spam or ham, optimizing user communication experiences.
 **Role**: Cleaning data and developing a Deep Learning model to implement a classification system.
