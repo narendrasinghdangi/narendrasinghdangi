@@ -18,7 +18,7 @@
 
 
 # Professional Experience
-# Data Scientist (05/2025 - Present) <br>
+## Data Scientist (05/2025 - Present) <br>
 **Bluebash Consulting Pvt. Ltd, Chandigarh, Punjab** <br>
 **Technologies**: OpenAI, Langflow, RAGflow, Docker, FastAPI, Twilio, LiveKit, Elasticsearch, Python.<br>
 **Description**: Leading advancements in KickCall.AI, an AI-powered voice platform enabling real-time, intelligent conversations. The system builds upon RAGflow and Langflow to deliver context-aware, tool-integrated voice agents for streamlining business workflows.
